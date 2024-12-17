@@ -2,14 +2,13 @@
   "name": "the-drum-kit",
   "version": "1.0.0",
   "description": "",
-  "main": "bombor.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "vercel": "^39.2.2"
+  }
 }
